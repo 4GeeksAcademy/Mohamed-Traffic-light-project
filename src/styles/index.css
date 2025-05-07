@@ -1,8 +1,6 @@
-body {
-    margin: 0;
-    padding: 0;
-    background: #f0f0f0;
-  }
+body{
+  background-color: #A8F1FF;
+}
   
 .traffic-light {
     width: 80px;
@@ -42,7 +40,7 @@ body {
   }
   
   .traffic-light-container {
-    text-align: center;
+
     margin-top: 50px;
   }
   
